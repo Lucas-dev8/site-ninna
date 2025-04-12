@@ -4,7 +4,7 @@
     src: url(inlove\ Personal\ use.ttf);
 }
 body{
-    background-image: url('imagem/teste1.jpeg');
+    background-image: url('../imagem/teste1.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
