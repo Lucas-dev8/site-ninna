@@ -1,0 +1,108 @@
+@font-face {
+    font-family: Lofty;
+    src: url(Lofty\ Chic\ Demo.ttf);
+}
+
+body{
+    background-image: url(/imagem/ChatGPT\ Image\ 11\ de\ abr.\ de\ 2025\,\ 20_00_29.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header{
+    box-shadow: 0px 0px 10px #00000086;
+    background-color: #FFC0CB;
+    padding: 20px;
+    min-height: 150px;
+    margin: auto;
+    margin-bottom: 5px;
+    min-width: 300px;
+    max-width: 1000px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+header h1{
+    font-family: 'Lofty';
+    text-align: center;
+    font-weight: bold;
+    font-size: 2.5em;
+    margin-bottom: 20px ;
+    margin-top: 5px;
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.316);
+}
+
+header p{
+    text-align: center;
+    font-size: 1.2em;
+    max-width: 500px;
+    margin: auto;
+    padding-bottom: 30px;
+    padding-right: 10px;
+    padding-left: 10px;
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.122);
+}
+
+main {
+        box-shadow: 0px 0px 10px rgba(136, 136, 136, 0.248);
+        padding: 20px;
+        min-width: 300px;
+        max-width: 1000px;
+        margin: auto;
+        background-color: #FFC0CB;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+}
+
+main h2{ 
+    text-align: center;
+    font-family: 'Lofty';
+    font-size: 1.3em;
+}
+
+main p{
+    text-align: center;
+    margin: 15px 0px;
+    text-indent: 20px;
+    font-size: 1.2em;
+    line-height: 1.5em;
+}
+
+main > p abbr{
+    font-style: italic;
+    text-decoration: none;
+}
+
+abbr:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+main img {
+    width: 50%;
+    max-width: 400px;
+    height: auto;
+}
+
+.container {
+    text-align: center;
+}
+
+footer{
+    background-color: rgba(0, 0, 0, 0.541);
+    color: white;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 0.9em;
+    padding: 0px;
+    border: 1px;
+}
+
+footer p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer p:hover{
+    color: rgb(0, 0, 0);
+}
+
