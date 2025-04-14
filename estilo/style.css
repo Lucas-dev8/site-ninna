@@ -65,6 +65,7 @@ a{
 }
 
 p{
+    padding-bottom: 20px;
     margin-bottom: 50px;
     color: black;
     text-decoration: none;
